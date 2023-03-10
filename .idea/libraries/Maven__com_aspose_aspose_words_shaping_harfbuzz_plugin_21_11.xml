@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aspose:aspose-words:shaping-harfbuzz-plugin:21.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aspose/aspose-words/21.11/aspose-words-21.11-shaping-harfbuzz-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aspose/aspose-words/21.11/aspose-words-21.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aspose/aspose-words/21.11/aspose-words-21.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

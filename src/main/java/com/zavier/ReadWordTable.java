@@ -244,7 +244,7 @@ public class ReadWordTable {
     }
 
     public static void main(String[] args) {
-        try (FileInputStream fileInputStream = new FileInputStream("F:\\workspace\\ReadWordTable\\src\\main\\resources\\1.docx");
+        try (FileInputStream fileInputStream = new FileInputStream("F:\\workspace\\ReadWordTable\\src\\main\\resources\\2.docx");
              XWPFDocument document = new XWPFDocument(fileInputStream);) {
             creatTableSql(document);
             creatColumnSql(document);

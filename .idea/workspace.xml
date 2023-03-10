@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2341f70-0eec-4184-8c51-1e5e9488ec5a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zavier/sqlStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zavier/sqlStringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/table1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/table2.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,69 +31,49 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1605793822">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="4" />
-          <entry key="java" value="7" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="7" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="727" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="727" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="227" column="27" lean-forward="true" selection-start-line="227" selection-start-column="27" selection-end-line="227" selection-end-column="27" />
+            <state relative-caret-position="239">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6867#6868#0" expanded="true" />
-                <element signature="e#6920#6921#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/sqlStringUtils.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/PdfToWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="156" column="64" lean-forward="true" selection-start-line="156" selection-start-column="64" selection-end-line="156" selection-end-column="64" />
+            <state relative-caret-position="114">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/license.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -123,41 +90,59 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>addSuffAndPre</find>
+      <find>Not</find>
+      <find>NULL</find>
+      <find>着经济的发展，家长对孩</find>
+      <find>和教育方针既有联系又有区别</find>
+      <find>REGEX5</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>REGEX</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="E:/源码阅读/openjdk/openjdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../workspace/码云/spring-framework" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/zavier/ReadWordTableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zavier/test/ListMerge.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable_copy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zavier/sqlStringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/stem.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/question.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/answer.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/DTO/MatcherDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/WrongTopicUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/question2.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/answer2.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/number.txt" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/WordToPdfUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/license.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/PdfToWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/WordToPdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zavier/Test.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\yan\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -178,34 +163,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>CSS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,19 +219,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611020329066" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629966153498" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/aspose/aspose-words/21.11/aspose-words-21.11-jdk17.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -280,6 +241,8 @@
       <recent name="com.zavier" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ReadWordTable\src\main\resources" />
+      <recent name="F:\workspace\ReadWordTable\src\main\resources" />
       <recent name="E:\java\ReadWordTable-master\src\main\java\com\zavier" />
     </key>
   </component>
@@ -295,8 +258,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.WrongTopicUtils">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -310,6 +273,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zavier.Test" />
+      <module name="ReadWordTable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zavier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrongTopicUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zavier.WrongTopicUtils" />
+      <module name="ReadWordTable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zavier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -317,12 +308,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -330,17 +323,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrongTopicUtils" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReadWordTable" />
       </list>
     </recent_temporary>
@@ -359,53 +354,78 @@
       <workItem from="1610699681176" duration="8000" />
       <workItem from="1610954520735" duration="6966000" />
       <workItem from="1611019062979" duration="1124000" />
+      <workItem from="1629966003525" duration="173000" />
+      <workItem from="1678281524533" duration="87000" />
+      <workItem from="1678281633175" duration="1814000" />
+      <workItem from="1678291414782" duration="7014000" />
+      <workItem from="1678299271221" duration="1659000" />
+      <workItem from="1678324433966" duration="18873000" />
+      <workItem from="1678448706077" duration="1443000" />
+      <workItem from="1678450212411" duration="528000" />
+      <workItem from="1678450761233" duration="1538000" />
+      <workItem from="1678452324845" duration="2253000" />
+      <workItem from="1678454881170" duration="1648000" />
+      <workItem from="1678456873301" duration="180000" />
+      <workItem from="1678457070755" duration="368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9962000" />
+    <option name="totallyTimeSpent" value="49686000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Web" order="1" side_tool="true" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.21983914" />
-      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.2543596" />
+      <window_info id="Structure" order="5" weight="0.249549" />
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Problems" order="3" />
+      <window_info anchor="bottom" id="Problems" order="3" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.44868034" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.53372437" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.366127" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.373599" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32827103" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27148193" />
       <window_info anchor="bottom" id="Sequence" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3275218" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Maven Projects" order="2" weight="0.329582" />
-      <window_info anchor="right" id="Database" order="3" weight="0.329582" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32952496" />
       <window_info anchor="right" id="Commander" order="4" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.249549" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="PlantUML" order="7" weight="0.329582" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
       <window_info anchor="right" id="Redis Explorer" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Maven" order="12" weight="0.32952496" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -444,66 +464,61 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s1.toLowerCase()" language="JAVA" />
-        <watch expression="pre.replaceAll(&quot;TABLE_NAME&quot;,s1.toLowerCase())" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>pre.replaceAll(&quot;TABLE_NAME&quot;,s1.toLowerCase())</expression-string>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1)).equalsIgnoreCase(&quot; &quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>pre.replace(&quot;TABLE_NAME&quot;,s1.toLowerCase())</expression-string>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1)).equals(&quot; &quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s1.toLowerCase()</expression-string>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1)) == &quot; &quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.commons.codec.binary.StringUtils,org.apache.poi.util.StringUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1)).equals(&quot; &quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.apache.commons.codec.binary.StringUtils,org.apache.poi.util.StringUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>soure.toLowerCase()</expression-string>
+        <expression-string>&quot; &quot;.equalsIgnoreCase(String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()-1)))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>soure.toUpperCase()</expression-string>
+        <expression-string>String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart()))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>table.getRow(1).getCell(1).getText();</expression-string>
+        <expression-string>&quot; &quot;.equalsIgnoreCase(String.valueOf(stringBuffer.charAt(integerList.get(i+1).getStart())))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>table.getRows()tables.get(1)</expression-string>
+        <expression-string>substring.replaceAll(&quot;  &quot;,&quot;&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>document.getParagraphs().get(0).getRuns();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>document.getParagraphs().get(0);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>document.getParagraphs()</expression-string>
+        <expression-string>substring.replaceAll(&quot; &quot;,&quot;&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -547,66 +562,232 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/test/ListCompare.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zavier/ReadWordTableTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xwpf/usermodel/XWPFParagraph.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xwpf/usermodel/XWPFDocument.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="258">
+          <caret line="602" column="19" selection-start-line="602" selection-start-column="19" selection-end-line="602" selection-end-column="19" />
+          <folding>
+            <element signature="e#21591#21592#0" expanded="true" />
+            <element signature="e#21636#21637#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xwpf/usermodel/XWPFParagraph.class">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/regex/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="183" column="25" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+        <state relative-caret-position="168">
+          <caret line="1026" column="26" selection-start-line="1026" selection-start-column="26" selection-end-line="1026" selection-end-column="26" />
+          <folding>
+            <element signature="e#48487#48488#0" expanded="true" />
+            <element signature="e#48531#48532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/question.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/answer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
+          <folding>
+            <element signature="e#5925#5926#0" expanded="true" />
+            <element signature="e#5959#5960#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        <state relative-caret-position="150">
+          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xwpf/usermodel/XWPFDocument.class">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="267" column="34" selection-start-line="267" selection-start-column="34" selection-end-line="267" selection-end-column="34" />
+        <state relative-caret-position="124">
+          <caret line="428" column="8" selection-start-line="428" selection-start-column="8" selection-end-line="428" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/DTO/MatcherDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="2221" column="41" selection-start-line="2221" selection-start-column="36" selection-end-line="2221" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="227" column="27" lean-forward="true" selection-start-line="227" selection-start-column="27" selection-end-line="227" selection-end-column="27" />
+        <state relative-caret-position="-1055">
+          <caret line="2874" column="33" selection-start-line="2874" selection-start-column="30" selection-end-line="2874" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6867#6868#0" expanded="true" />
-            <element signature="e#6920#6921#0" expanded="true" />
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/sqlStringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="156" column="64" lean-forward="true" selection-start-line="156" selection-start-column="64" selection-end-line="156" selection-end-column="64" />
+        <state relative-caret-position="19">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/ReadWordTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="238" column="43" selection-start-line="238" selection-start-column="36" selection-end-line="238" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#6867#6868#0" expanded="true" />
+            <element signature="e#6920#6921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/WrongTopicUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/number.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/answer2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="147" column="15" lean-forward="true" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/question2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/WordToPdfUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/WordToPdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar!/javassist/ClassPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="412" column="52" selection-start-line="412" selection-start-column="44" selection-end-line="412" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zavier/PdfToWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/license.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -630,6 +811,17 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -644,15 +836,19 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>aspose-words-21.11-jdk17</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.38505748" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

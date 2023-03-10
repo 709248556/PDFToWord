@@ -21,10 +21,13 @@ public class sqlStringUtils {
      */
     private static String getTableName(List<XWPFRun> runs) {
         String s1 = "";
-        for (int i = 1; i < runs.size(); i++) {
+        for (int i = 0; i < runs.size(); i++) {
             s1 += runs.get(i);
         }
-        return s1.toLowerCase();
+        //铸管绩效
+        String[] tbs = s1.split("：");
+        String[] split = tbs[1].split("（");
+        return split[0];
     }
 
     /**
@@ -63,7 +66,9 @@ public class sqlStringUtils {
      */
     public static String getSql1(List<XWPFRun> s) {
         StringBuffer sql = new StringBuffer("CREATE TABLE ");
-        sql.append(addSuffAndPre(getTableName(s)));
+//        sql.append(addSuffAndPre(getTableName(s)));
+        //铸管绩效
+        sql.append(getTableName(s));
         sql.append("(");
         sql.append("\n");
         return sql.toString();
